@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
-<p align="center"> Techs that I've used at least once </p>
+<p align="center"> The technology described below is what I often use. </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
