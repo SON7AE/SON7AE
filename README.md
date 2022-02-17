@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 <p align="center"> The technology described below is what I often use. </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HTML-E34F26??style=flat&logo=appveyor&logo=HTML5&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/CSS-1572B6??style=flat&logo=appveyor&logo=css3&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/SASS-CC6699??style=flat&logo=appveyor&logo=Sass&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-ffb13b??style=flat&logo=appveyor&logo=javascript&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Vue-4FC08D??style=flat&logo=appveyor&logo=Vue.js&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/React-61DAFB??style=flat&logo=appveyor&logo=React&logoColor=white"/></a>&nbsp 
 </p>
 
 <br>
