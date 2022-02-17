@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Hello, I'm a beginner developer.
+I think that Web-coding is the greatest art. So I'm happy to share my creation.
+
 <!--
 **SON7AE/SON7AE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
