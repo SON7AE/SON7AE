@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Hello, I'm a beginner developer.
+I'm a junior developer.
+For me, programming is so fun and meaningful.
+So I want to share the skills and knowledge I know with many people. 
 I think that Web-coding is the greatest art. So I'm happy to share my creation.
 
 <!--
