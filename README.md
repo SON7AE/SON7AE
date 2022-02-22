@@ -33,7 +33,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat&logo=JavaScript&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/></a>&nbsp
 </p>
 
 <br>
