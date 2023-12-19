@@ -21,12 +21,3 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SungJae.Park&fontSize=70&animation=twinkling)
-
-<br>
-
-<div align="center" style="text-align:center">
-  
-<!--   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo&tag=기술면접대비)](https://velog.io/@woo0_hooo)
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo)](https://velog.io/@woo0_hooo) -->
-  
-</div>
